@@ -1,0 +1,9 @@
+# Rascunhos de divulgação (posts do LinkedIn): mantidos apenas localmente
+linkedin/
+
+# Arquivos de sistema operacional e editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
