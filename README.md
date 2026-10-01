@@ -150,7 +150,3 @@ Nenhuma dessas escolhas é "a certa": cada uma troca uma característica por out
 - Malte Ubl — [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [adr.github.io](https://adr.github.io/)
 - ByteByteGo — [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
-
----
-
-Notas de estudo de [@sidartaoss](https://github.com/sidartaoss). Correções e sugestões são bem-vindas via *issues* ou *pull requests*.
