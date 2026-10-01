@@ -3,7 +3,7 @@
 Guia de referência rápida sobre como **tomar, registrar e comunicar decisões arquiteturais**: níveis de decisão, características arquiteturais, trade-offs, estilos e padrões, C4 Model, Design Docs e ADRs.
 
 > [!NOTE]
-> Síntese pessoal, escrita com minhas palavras, de conceitos consolidados na literatura de arquitetura de software. As fontes estão nas [referências](#referências).
+> Síntese pessoal de conceitos consolidados na literatura de arquitetura de software. As fontes estão nas [referências](#referências).
 
 ## Em resumo
 
